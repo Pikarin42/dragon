@@ -1,0 +1,58 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+newmtl Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.016112 0.102591 0.007375
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\Users\Pikarin\Desktop\Textures\Floor\leaves.jpg
+map_Bump -bm 0.001000 F:\\Users\\Pikarin\\Desktop\\Textures\\Floor\\leaves.jpg
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl darker_grass
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.002948 0.037569 0.003441
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\Users\Pikarin\Desktop\Textures\Floor\leaves.jpg
+map_Bump F:\\Users\\Pikarin\\Desktop\\Textures\\Floor\\leaves.jpg
+
+newmtl gravel
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.039639 0.039639 0.039639
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\Users\Pikarin\Desktop\Textures\Floor\leaves.jpg
+map_Bump -bm 0.010000 F:\\Users\\Pikarin\\Desktop\\Textures\\Floor\\crackly.png
+
+newmtl lighter_grass
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.439921 0.640000 0.163282
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\Users\Pikarin\Desktop\Textures\Floor\leaves.jpg
+map_Bump -bm 0.010000 F:\\Users\\Pikarin\\Desktop\\Textures\\Floor\\leaves.jpg
